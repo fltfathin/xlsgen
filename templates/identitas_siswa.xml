@@ -1,0 +1,28 @@
+<table>
+    <field header="Id"></field>
+    <field header="Nama"></field>
+    <field header="NIS"></field>
+    <field header="NISN"></field>
+    <field header="Tempat, Tanggal Lahir"></field>
+    <field header="Jenis Kelamin"></field>
+    <field header="Agama"></field>
+    <field header="Pendidikan Sebelumnya"></field>
+    <field header="Alamat Peserta Didik"></field>
+    <field header="Nama Orang Tua">
+        <field header="Ayah"></field>
+        <field header="Ibu"></field>
+    </field>
+    <field header="Pekerjaan Orang Tua"></field>
+    <field header="Alamat Orang Tua">
+        <field header="Kampung"></field>
+        <field header="Kelurahan"></field>
+        <field header="Kecamatan"></field>
+        <field header="Kota/ Kabupaten"></field>
+        <field header="Provinsi"></field>
+    </field>
+    <field header="Wali Peserta Didik">
+        <field header="Nama"></field>
+        <field header="Pekerjaan"></field>
+        <field header="Alamat"></field>
+    </field>
+</table>
