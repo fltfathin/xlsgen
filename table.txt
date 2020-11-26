@@ -1,0 +1,8 @@
+No
+Nama
+NIS
+NISN
+Nama Orang Tua
+    Ayah
+    Ibu
+Test
